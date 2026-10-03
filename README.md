@@ -88,8 +88,7 @@ This repository serves as a growing **Power BI portfolio** showcasing practical 
 - Data visualization
 - Business intelligence
 - Data transformation
-- Data modeling
-- DAX
+- Data modeling and DAX
 - Dashboard development
 - Business-oriented data analysis
 
