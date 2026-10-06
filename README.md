@@ -11,7 +11,6 @@ This repository will contain multiple Power BI projects covering different datas
 | 01 | [Grocery Retail Sales Analytics](projects/01-grocery-retail-sales/) | Grocery and retail sales analysis using Power BI | Power BI, Power Query, DAX |
 | 02 | Coming Soon | — | — |
 | 03 | Coming Soon | — | — |
-| 04 | Coming Soon | — | — |
 
 ## Repository Structure
 
@@ -28,7 +27,7 @@ powerbi-portfolio/
 │   │
 │   ├── 02-project-name/
 │   ├── 03-project-name/
-│   └── 04-project-name/
+│   
 │
 └── README.md
 ```
