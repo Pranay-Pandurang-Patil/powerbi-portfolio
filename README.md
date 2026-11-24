@@ -2,14 +2,14 @@
 
 A collection of **Power BI data visualization and business intelligence projects** created to demonstrate practical skills in data analysis, dashboard design, Power Query, DAX, and interactive reporting.
 
-This repository will contain multiple Power BI projects covering different datasets, business scenarios, and analytical use cases.
+This repository contains multiple Power BI projects covering different datasets, business scenarios, and analytical use cases.
 
 ## Projects
 
 | # | Project | Description | Tools |
 |---|---|---|---|
 | 01 | [Grocery Retail Sales Analytics](projects/01-grocery-retail-sales/) | Grocery and retail sales analysis using Power BI | Power BI, Power Query, DAX |
-| 02 | Coming Soon | — | — |
+| 02 | [University Analytics Dashboard](projects/02-university-analytics/) | University enrollment and student academic performance analysis | Power BI, Excel, Power Query, DAX |
 | 03 | Coming Soon | — | — |
 
 ## Repository Structure
@@ -21,11 +21,17 @@ powerbi-portfolio/
 │   │
 │   ├── 01-grocery-retail-sales/
 │   │   ├── Grocery_Retail_Sales_Analytics.pbix
-│   │   ├── screenshots/
-│   │   │   └── dashboard.png
-│   │   └── README.md
+│   │   ├── README.md
+│   │   └── screenshots/
+│   │       └── DASHBOARD.png
 │   │
-│   ├── 02-project-name/
+│   ├── 02-university-analytics/
+│   │   ├── University_Analytics_Dashboard.pbix
+│   │   ├── University_PowerBI_Dataset.xlsx
+│   │   ├── README.md
+│   │   └── screenshots/
+│   │       └── DASHBOARD.png
+│   │
 │   ├── 03-project-name/
 │   
 │
@@ -55,10 +61,10 @@ powerbi-portfolio/
 
 - Exploratory data analysis
 - Sales analysis
-- Product analysis
-- Category analysis
+- Product and category analysis
 - Outlet analysis
-- Business performance analysis
+- Student enrollment analysis
+- Academic performance analysis
 - Insight generation
 
 ## Projects
@@ -72,13 +78,19 @@ A typical project may include:
 - Project-specific README
 - Dataset information and attribution
 
-## Current Project
+## Current Projects
 
-### Grocery Retail Sales Analytics
+### 01. Grocery Retail Sales Analytics
 
-The first project in this portfolio is a Power BI dashboard analyzing grocery and retail sales data across products, categories, outlets, locations, and other available business attributes.
+A Power BI dashboard analyzing grocery and retail sales data across products, categories, outlets, locations, and other available business attributes.
 
 [View Project →](projects/01-grocery-retail-sales/)
+
+### 02. University Analytics Dashboard
+
+A Power BI dashboard exploring university enrollment patterns and student academic performance across different departments and academic years.
+
+[View Project →](projects/02-university-analytics/)
 
 ## Purpose
 
